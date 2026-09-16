@@ -205,5 +205,3 @@ Nếu doanh nghiệp có nhu cầu tư vấn, thiết kế hoặc thi công hệ
 ![Liên hệ dịch vụ xử lý nước thải trọn gói](https://moitruonghopnhat.com/uploads/images/CTA/CTA-XLNT-tron-goi.jpg)
 
 ---
-
-*Tài liệu được biên tập lại từ nội dung giới thiệu dịch vụ của Công ty Cổ phần Xây dựng và Công nghệ Môi trường Hợp Nhất để phù hợp với định dạng Markdown/GitHub.*
